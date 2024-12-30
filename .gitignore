@@ -75,7 +75,6 @@ crashlytics-build.properties
 # Furkan's gitignore files and folders
 /GitHubDemo/Library
 /GitHubDemo/Logs
-/GitHubDemo/Packages
 /GitHubDemo/UserSettings
 
 
